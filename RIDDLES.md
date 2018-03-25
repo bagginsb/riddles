@@ -1,4 +1,4 @@
-# riddles
+# The riddles of Bilbo and Gollum
 
 Gollum:
 What has roots as nobody sees,
